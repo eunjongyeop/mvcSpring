@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\platf\Downloads\test.AriaService.zip"/>
+		<item value="C:\Users\platf\Downloads\ex-MultiDataSource.zip"/>
+		<item value="E:\workspaces\workspace.edu_3.9"/>
+		<item value="C:\eGovFrame-3.9.0\workspace.edu.zip"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="581" key="DIALOG_WIDTH"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="452" key="DIALOG_HEIGHT"/>
+		<item value="0" key="DIALOG_X_ORIGIN"/>
+		<item value="275" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\user\Desktop\gsmspring3-2-main"/>
+			<item value="C:\eGovFrame-3.9.0\workspace.edu\lab403-DeviceAPI-Web"/>
+			<item value="C:\eGovFrame-3.9.0\workspace.edu\lab403-DeviceAPI"/>
+			<item value="E:\workspaces\workspace.edu_3.9_0511"/>
+			<item value="E:\workspaces\workspace.edu_3.9"/>
+			<item value="E:\workspaces\examples_v3.9"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
