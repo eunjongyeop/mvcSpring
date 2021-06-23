@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;springMVC2&apos; to &apos;springMVC21&apos;" description="Rename resource &apos;springMVC2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/springMVC2" name="springMVC21" stamp="1621918477153" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;springMVC22&apos; to &apos;springMVC2&apos;" description="Rename resource &apos;springMVC22&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/springMVC22" name="springMVC2" stamp="1621918497149" updateReferences="true"/>
-</session>
