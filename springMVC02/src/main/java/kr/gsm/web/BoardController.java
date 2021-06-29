@@ -17,7 +17,7 @@ public class BoardController {
 	@Autowired
 	private BoardMapper mapper;	// DI(의존성 주입)
 	// 계시판 리스트 가져오기(/boardList.do)
-	@RequestMapping("/boardList.do")
+	@RequestMapping("/boardList.do")			// URL : http://localhost:8080/web/boardList.do
 	public String boardList(Model model) {
 		List<BoardVO> list = mapper.boardList();
 		model.addAttribute("list", list);
