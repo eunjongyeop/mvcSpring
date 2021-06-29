@@ -8,4 +8,7 @@ public interface BoardMapper {
 //	@Select("select * from tb1 board")
 	public List<BoardVO> boardList();  // boardList -> SQL Mapper file(XML)
 	public int boardInsert(BoardVO vo);
+	public BoardVO boardContent(int idx);
+	public int boardDelete(int idx);
+	public int boardUpdate(BoardVO vo);
 }
